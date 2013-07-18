@@ -54,6 +54,6 @@ Clearly illustrate with an image what people mean whenever they say "facepalm"
 
 ### Moar Cats Me
 ```
-hubot moarcats me - links http://edgecats.net, which serves a random cat gif
-hubot moarcats bomb <n> - gives <n> cat gifs
+@bot moarcats me - links http://edgecats.net, which serves a random cat gif
+@bot moarcats bomb <n> - gives <n> cat gifs
 ```
