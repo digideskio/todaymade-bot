@@ -3,7 +3,7 @@ todaymade-bot
 
 ### Applause
 
-(applause|applaud|bravo|slow clap) - Get applause
+(applause | applaud | bravo | slow clap) - Get applause
 
 
 ### Facepalm
