@@ -1,6 +1,11 @@
 todaymade-bot
 =============
 
+### Applause
+
+(applause|applaud|bravo|slow clap) - Get applause
+
+
 ### Facepalm
 
 Clearly illustrate with an image what people mean whenever they say "facepalm"
@@ -23,6 +28,12 @@ Clearly illustrate with an image what people mean whenever they say "facepalm"
 @bot nic cage me - Returns a random gif from gifolas-cage.tumblr.com
 ```
 
+### Grumpy Cat
+```
+@bot grumpycat me - Receive a Grumpy Cat
+@bot grumpycat bomb N - get N Grumpy Cats
+```
+
 ### Meme Captian
 ```
 @bot Y U NO <text> - Generates the Y U NO GUY with the bottom caption of <text>
@@ -39,4 +50,10 @@ Clearly illustrate with an image what people mean whenever they say "facepalm"
 @bot ONE DOES NOT SIMPLY <text> - Generates Boromir
 @bot IF YOU <text> GONNA HAVE A BAD TIME - Ski Instructor
 @bot IF YOU <text> TROLLFACE <text> - Troll Face
+```
+
+### Moar Cats Me
+```
+hubot moarcats me - links http://edgecats.net, which serves a random cat gif
+hubot moarcats bomb <n> - gives <n> cat gifs
 ```
