@@ -12,7 +12,6 @@ Clearly illustrate with an image what people mean whenever they say "facepalm"
 
 
 ### Faceup
-
 ```
 @bot hipster me <img> - Overlay hipster glasses on a face
 @bot clown me <img> - Overlay a clown nose on a face
@@ -56,4 +55,8 @@ Clearly illustrate with an image what people mean whenever they say "facepalm"
 ```
 @bot moarcats me - links http://edgecats.net, which serves a random cat gif
 @bot moarcats bomb <n> - gives <n> cat gifs
+```
+### Pizza
+```
+@bot pizza - Show a pizza gif
 ```
