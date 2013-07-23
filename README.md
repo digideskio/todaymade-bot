@@ -42,7 +42,6 @@ Clearly illustrate with an image what people mean whenever they say "facepalm"
 @bot <text> TOO DAMN <high> - Generates THE RENT IS TOO DAMN HIGH guy
 @bot Not sure if <text> or <text> - Generates Futurama Fry
 @bot Yo dawg <text> so <text> - Generates Yo Dawg
-@bot ALL YOUR <text> ARE BELONG TO US - Generates Zero Wing with the caption of <text>
 @bot If <text>, <word that can start a question> <text>? - Generates Philosoraptor
 @bot <text>, BITCH PLEASE <text> - Generates Yao Ming
 @bot <text>, COURAGE <text> - Generates Courage Wolf
